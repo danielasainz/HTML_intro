@@ -1,0 +1,31 @@
+
+/*was unsure of how to start - with "body" */
+
+body{
+    color:white;
+    background-color:black;
+
+}
+
+h1{
+    color:fuchsia;
+}
+
+h3{
+    color:blue;
+}
+
+/* creating quote class */
+.quoteclass{
+    font-style:italic;
+}
+
+img {
+    height:200px;
+}
+
+.borderme
+{
+    border-style: dotted;
+    color: white;
+}
